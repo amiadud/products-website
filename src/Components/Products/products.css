@@ -1,0 +1,18 @@
+.cart-container {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+  }
+
+.cart-item {
+    margin: 10px 0;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+  }
+  
+.cart-item button {
+    margin-left: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
