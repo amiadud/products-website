@@ -7,3 +7,6 @@
 5.  I have implemented login process 
 6. I have implemented cart functionality and the cart count on the top. And with the total amount of the cart
 7. And Lastly, I have implemented Add to Cart Button on product cards.
+8. I have implemented Home page as protected Route (only logged in users allowed).
+
+Live Link: https://shop-products-pi.vercel.app
