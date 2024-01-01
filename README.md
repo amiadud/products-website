@@ -1,8 +1,9 @@
-# React + Vite
+# Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Fetch products on home page
+2. Search on the page to search products based on their name.
+3. Added filter option with products price-based
+4. Save the login token from localstorage with authorization
+5.  I have implemented login process 
+6. I have implemented cart functionality and the cart count on the top. And with the total amount of the cart
+7. And Lastly, I have implemented Add to Cart Button on product cards.
